@@ -93,7 +93,7 @@ To contribute to **high-impact engineering teams** solving problems in **AI, aut
 - Student tracking with GUI  
 - ML-powered automation  
 
-🔗 Repo: **Attendance-SYS**
+🔗 Repo: [**Attendance-SYS**](https://github.com/AnuruddhSin/Attendance-SYS)
 
 ---
 
@@ -102,7 +102,7 @@ To contribute to **high-impact engineering teams** solving problems in **AI, aut
 - Eye blink & gesture control  
 - Real-time optimized system  
 
-🔗 Repo: **Virtual-keyboard-eye-detection**
+🔗 Repo: [**Virtual-keyboard-eye-detection**](https://github.com/AnuruddhSin/Virtual-keyboard-eye-detection)
 
 ---
 
@@ -111,7 +111,7 @@ To contribute to **high-impact engineering teams** solving problems in **AI, aut
 - Role-based authentication  
 - Task & workflow management  
 
-🔗 Repo: **Employee_Task_Management_System**
+🔗 Repo:[ **Employee_Task_Management_System**](https://github.com/AnuruddhSin/Employee_Task_Management_System)
 
 ---
 
@@ -120,7 +120,7 @@ To contribute to **high-impact engineering teams** solving problems in **AI, aut
 - Sequence-based caption generation  
 - BLEU Score: **0.6522**  
 
-🔗 Repo: **Image-captioning-Phase-1-Completed**
+🔗 Repo: [**Image-captioning-Phase-1-Completed**](https://github.com/AnuruddhSin/Image-captioning-Phase-1-Completed)
 
 ---
 
@@ -131,13 +131,8 @@ To contribute to **high-impact engineering teams** solving problems in **AI, aut
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuruddhSin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## 📫 Let’s Connect
 
-## 📫 Contact  
-
-📧 **Email:** anuruddh7234@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/  
-💻 **GitHub:** https://github.com/AnuruddhSin  
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=21&duration=2600&pause=600&color=36BCF7&center=true&vCenter=true&width=950&lines=Fresher+Actively+Seeking+Opportunities;Open+to+Data+Science+%7C+Software+Development;Full-Stack+Developer+%7C+AI+%26+Machine+Learning;Available+for+Full-Time+Roles+%26+Internships" /> </p> <p align="center"> <i>Currently applying for entry-level roles, internships, and graduate programs</i> </p> <p align="center"> <a href="mailto:anuruddh7234@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/anuruddh-singh-86ba0b239/"> <img src="https://img.shields.io/badge/LinkedIn-Anuruddh%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://anuruddhsin.onrender.com"> <img src="https://img.shields.io/badge/Portfolio-View%20Projects-black?style=for-the-badge&logo=vercel" /> </a> </p>
 
 ---
-
-⭐ *If you like clean engineering, AI-driven systems, and scalable design — feel free to explore my repositories!*  
